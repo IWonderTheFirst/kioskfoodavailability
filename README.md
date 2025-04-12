@@ -1,4 +1,4 @@
-# Kiosk Food Availability Application for CSC Hackathon 🔥🔥🔥
+# Kiosk Food Availability Application for CSC Hackathon 🔥
  Code by Riku Ishihara (28ishiharar@asij.ac.jp)
  
  Data Creation & Management by Kaito Nonaka (28nonakak@asij.ac.jp)
