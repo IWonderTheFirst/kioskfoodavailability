@@ -24,3 +24,5 @@ Me and Kaito believed that in the Kiosk, products such as the BLT and Onigiri we
 The code uses the following libraries: *PYQT5, Pandas, SYS, and Matploblib*. The graph was calculated using the data from the transaction, and is the "average".
 
 Thank you for viewing this repo!!!
+
+# Screen shots
