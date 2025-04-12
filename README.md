@@ -9,6 +9,9 @@ This application can only run with the 1 million transaction data. To use this, 
 
 Because the transaction data surpassed the data limit of GitHub upload, I couldn't upload the data here.
 
+Instead, here is the link to the data:
+[https://docs.google.com/spreadsheets/d/1JIkhnaK1lgspQWNprPaNH9Fvf0T65YzvygxGCGw7x-c/edit?gid=1489343536#gid=1489343536](url)
+
 ## Purpose
 Me and Kaito believed that in the Kiosk, products such as the BLT and Onigiri weren't avaiablle at certain periods. To allow students and faculty to buy products before they run out of stock, we developed this application that allows the user to determine the perfect time to buy their desired product. 
 
