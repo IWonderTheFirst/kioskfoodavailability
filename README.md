@@ -1,5 +1,7 @@
 # Kiosk Food Availability Application
- Code by Riku Ishihara, Data Creation & Management by Kaito Nonaka
+ Code by Riku Ishihara (28ishiharar@asij.ac.jp)
+ 
+ Data Creation & Management by Kaito Nonaka (28nonakak@asij.ac.jp)
 
  ## Application usage
 The application consists of two inputs: The product name and the stock. Using these two pieces of information, the application will create a graph estimating the stock of the product for a time. In the future, a feature will be implemented that will make the kiosk products selectable.
